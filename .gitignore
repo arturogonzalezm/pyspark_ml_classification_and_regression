@@ -9,3 +9,5 @@ derby.log
 metastore_db/
 spark-warehouse/
 target/
+/.idea/inspectionProfiles/Project_Default.xml
+/.gitignore
